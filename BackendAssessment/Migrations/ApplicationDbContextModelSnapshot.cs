@@ -98,7 +98,7 @@ namespace BackendAssessment.Migrations
                         new
                         {
                             Id = 1,
-                            Password = "password123",
+                            Password = "123",
                             Username = "admin"
                         });
                 });
